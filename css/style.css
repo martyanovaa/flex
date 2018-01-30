@@ -1,0 +1,96 @@
+body {
+	margin:0 auto;
+	max-width: 1000px;
+
+}
+.top {
+	display: flex;
+	justify-content: space-between;
+	}
+.orange {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
+.blue {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+.middle1{
+	display: flex;
+	justify-content: space-between;
+
+}
+.middle1 h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h1{
+	margin-right: 35px;
+}
+.cub h1{
+	margin-left: px;
+}
+.yellow {
+	width: 800px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.middle2 {
+	display: flex;
+	justify-content:flex-end;
+
+}
+.surname h1{
+	margin-right: 330px;
+}
+.red {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin-right: px;
+}
+
+.block {
+	display: flex;
+	justify-content: space-between;
+}
+.pink {
+width: 100px;
+height: 100px;
+background-color: pink;
+}
+.grey {
+	width: 100px;
+	height: 100px;
+	background-color: grey;
+
+}
+.purple {
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+
+}
+.green {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+
+}
+.black {
+
+width: 100px;
+height: 100px;
+background-color: black;
+margin-top: 100px;
+}
+.brown {
+width: 100px;
+height: 100px;
+background-color: brown;
+margin-top: 200px;
+}
